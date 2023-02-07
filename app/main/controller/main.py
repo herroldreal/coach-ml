@@ -1,4 +1,4 @@
-from model import verify
+from service.model import verify
 
 try:
     image_path1 = 'picture/5.jpg'
